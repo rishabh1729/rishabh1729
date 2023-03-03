@@ -4,7 +4,7 @@
 
 - 💻 I'm a **Full Stack Web Developer** from **India**
 
-- 🌱 I’m currently learning **Node.js and AWS**
+- 🌱 I’m currently learning **Node.js** and **AWS**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
