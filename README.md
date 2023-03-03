@@ -1,6 +1,6 @@
-[![Header](https://raw.githubusercontent.com/rishabh1729/rishabh1729/master/header.png "Header")][1]
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/rishabh1729/rishabh1729/master/wave.gif" width="30px" height="30px" />
+
+[![I'm Rishabh Mishra](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=I'm+Rishabh+Mishra)][1]
 
 - 💻 I'm a **Full Stack Web Developer** from **India**
 
@@ -61,4 +61,4 @@
 
 [1]: https://github.com/rishabh1729
 [2]: mailto:rishabhdevmishra789@gmail.com
-[3]: https://www.linkedin.com/in/rishabh/
+[3]: https://www.linkedin.com/in/rishabh
