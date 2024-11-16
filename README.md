@@ -37,11 +37,11 @@
 ![](https://img.shields.io/badge/Library-scikit--learn-informational?style=flat-square&logo=scikitlearn&logoColor=orange&color=yellow)
 ![](https://img.shields.io/badge/Library-Plotly-informational?style=flat-square&logo=plotly&logoColor=white&color=yellow)
 
-## &#x1f4c8; GitHub Stats
+<!--## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/rishabh1729/rishabh1729">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh1729&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rishabh's GitHub Stats" />
-</a>
+</a>-->
 
 ## 🧮 DSA Profiles
 
