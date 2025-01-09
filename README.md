@@ -10,7 +10,7 @@
 
 - 💬 Talk to me about **Technology, Cricket and Football**
 
-- 📫 You can reach me on [<img align="center" src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" height="20" width="20" />][2] or on [<img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" />][3]
+- 📫 You can reach me on [<img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" alt="Gmail" height="20" width="20" />][2] or on [<img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" height="20" width="20" />][3]
 
 ## 🔧 Technologies & Tools
 
